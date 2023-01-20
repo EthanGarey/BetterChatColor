@@ -23,7 +23,7 @@ public final class Main extends JavaPlugin{
             if (Objects.equals(getConfig().getString("version"),version)) {
                 getLogger().info("There is not a new update available.");
             } else {
-                getLogger().info("There is a new update available. {NICK} https://www.spigotmc.org/resources/betterserver.105989/updates".replace("{NICK}",version));
+                getLogger().info("There is a new update available. {NICK} https://www.spigotmc.org/resources/betterserver.107508/updates".replace("{NICK}",version));
             }
         });
 
