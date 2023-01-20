@@ -1,6 +1,6 @@
 # BetterColorChat made by EthanGarey! #
 # Use /BetterColorChat help for help #
-
+version: 1.0.1
 Colorchat: true #This changes with the /Colorchat automatically
 Permission-to-use-chatcolor: BetterChatColor.permissions.chatcolor.use
 Permission-to-reload-chatcolor: BetterChatColor.permissions.chatcolor.reload
