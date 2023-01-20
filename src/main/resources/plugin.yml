@@ -1,0 +1,7 @@
+name: BetterChatColor
+version: '${project.version}'
+main: BetterChatColor.Main
+api-version: 1.19
+commands:
+  Chatcolor:
+    description: §a§lAllow the user to use color in there messages

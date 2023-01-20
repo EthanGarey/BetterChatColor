@@ -1,0 +1,10 @@
+# BetterColorChat made by EthanGarey! #
+# Use /BetterColorChat help for help #
+
+Colorchat: true #This changes with the /Colorchat automatically
+Permission-to-use-chatcolor: BetterChatColor.permissions.chatcolor.use
+Permission-to-reload-chatcolor: BetterChatColor.permissions.chatcolor.reload
+Permission-to-get-help-with-chatcolor: BetterChatColor.permissions.chatcolor.help
+Permission-to-enable-chatcolor: BetterChatColor.permissions.chatcolor.change.on
+Permission-to-disable-chatcolor: BetterChatColor.permissions.chatcolor.change.off
+Permission-to-use-chatcolor-book: BetterChatColor.permissions.chatcolor.book #This gives the player a written book
